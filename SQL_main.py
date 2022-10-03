@@ -296,7 +296,6 @@ class Ui_Dialog(object):
         self.label_3.setText(_translate("Dialog", "데이터 길이 입력"))
         self.pushButton.setText(_translate("Dialog", "실행"))
         self.pushButton_2.setText(_translate("Dialog", "초기화"))
-        # self.pushButton_3.setText(_translate("Dialog", "저장"))
         self.label_4.setText(_translate("Dialog", "쿠키 값 입력"))
         self.pushButton_4.setText(_translate("Dialog", "실행"))
         self.pushButton_5.setText(_translate("Dialog", "초기화"))
